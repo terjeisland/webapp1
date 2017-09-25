@@ -1,3 +1,3 @@
 <?php
-echo "hei på deg";
+echo "hei_på deg";
 ?>
